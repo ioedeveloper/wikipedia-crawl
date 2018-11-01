@@ -1,2 +1,3 @@
 # wikipedia-crawl
-A side project in python to crawl wikipedia
+A web crawler that crawls through links of a wikipedia page. 
+Implemented with Python.
