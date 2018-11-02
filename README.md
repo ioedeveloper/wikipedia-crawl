@@ -1,3 +1,3 @@
 # wikipedia-crawl
 A web crawler that crawls through links of a wikipedia page. 
-Implemented with Python.
+Implemented with BeautifulSoup4.
